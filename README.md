@@ -1,3 +1,4 @@
-#my simple pylab
+my simple pylab
+
 Is x an integer
 Craps Game.
